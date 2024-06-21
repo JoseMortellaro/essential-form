@@ -1,0 +1,124 @@
+# Translation of Plugins - Essential Form &#8211; The lightest plugin for contact forms, ultra lightweight and no spam - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Essential Form &#8211; The lightest plugin for contact forms, ultra lightweight and no spam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Essential Form &#8211; The lightest plugin for contact forms, ultra lightweight and no spam - Stable (latest release)\n"
+
+#: classes/ef-class-add-fields-factory.php:113
+msgid "Missing %s."
+msgstr "Es fehlt %s."
+
+#: admin/ef-admin.php:64
+msgid "Form submission"
+msgstr "Formularübermittlung"
+
+#: admin/ef-admin.php:63
+msgid "Getting secret key during submission"
+msgstr "Abrufen des geheimen Schlüssels während der Übermittlung"
+
+#: essential-form.php:251
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/ef-ajax.php:113
+msgid "Form submited from the URL %s"
+msgstr "Die Nachricht wurde gesendet von der URL %s"
+
+#: inc/ef-ajax.php:107
+msgid "Form submited from the page %s"
+msgstr "Die Nachricht wurde gesendet von der Seite %s"
+
+#: inc/ef-ajax.php:103
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: inc/ef-ajax.php:102
+msgid "Name: %s"
+msgstr "Name: %s"
+
+#: essential-form.php:101
+msgid "You have to agree with our privacy policy to submit the form."
+msgstr "Bitte stimme den Bestimmungen zum Datenschutz zu."
+
+#: essential-form.php:100
+msgid "This message is too long! Please, write not more than 50000 characters."
+msgstr "Die Nachricht ist zu lang. Bitte nicht mehr als 50000 Zeichen."
+
+#: essential-form.php:99
+msgid "Message is a required field!"
+msgstr "Nachricht ist ein Pflichtfeld!"
+
+#: essential-form.php:98
+msgid "Email not valid!"
+msgstr "Email hat ein falsches Format!"
+
+#: essential-form.php:97
+msgid "Email is a required field!"
+msgstr "Email ist ein Pflichtfeld!"
+
+#: essential-form.php:96
+msgid "Name is a required field!"
+msgstr "Name ist ein Pflichtfeld!"
+
+#: essential-form.php:95
+msgid "Form submitted successfully! Thank you for your message!"
+msgstr "Die Nachricht wurde gesendet. Vielen Dank!"
+
+#: essential-form.php:94
+msgid "By submitting this form I agree with the %sprivacy policy%s"
+msgstr "Mit dem Abschicken stimmst Du den Bestimmungen zum %sDatenschutz%s zu"
+
+#: essential-form.php:93
+msgid "Send"
+msgstr "Abschicken"
+
+#: essential-form.php:92
+msgid "Message"
+msgstr "Nachricht"
+
+#: essential-form.php:91
+msgid "Email"
+msgstr "Email"
+
+#: essential-form.php:90
+msgid "Name"
+msgstr "Name"
+
+#: essential-form.php:89
+msgid "Message from %s"
+msgstr "Eine Nachricht von %s"
+
+#: admin/ef-admin.php:54
+msgid "Access to the filesystem denied"
+msgstr "Zugriff auf das Dateisystem nicht möglich"
+
+#: admin/ef-admin.php:49
+msgid "Settings not updated"
+msgstr "Die Einstellungen wurden nicht gespeichert"
+
+#. Author URI of the plugin
+#: essential-form.php
+msgid "https://josemortellaro.com/"
+msgstr "https://josemortellaro.com/"
+
+#. Author of the plugin
+#: essential-form.php
+msgid "Jose Mortellaro"
+msgstr "Jose Mortellaro"
+
+#. Description of the plugin
+#: essential-form.php
+msgid "The lightest contact form for WordPress. So essential you'll either love it or hate it. Ultra lightweight and no spam."
+msgstr "Das schlanke Kontaktformular für WordPress. Du wirst es lieben oder hassen. Ultraleicht und kein Spam."
+
+#. Plugin Name of the plugin
+#: essential-form.php
+msgid "Essential Form"
+msgstr "Essential Form"

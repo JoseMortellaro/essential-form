@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Essential Form\n"
+"POT-Creation-Date: 2023-03-01 00:10+0100\n"
+"PO-Revision-Date: 2023-03-01 00:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: essential-form.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/ef-admin.php:49
+msgid "Settings not updated"
+msgstr "Impostazioni non aggiornate"
+
+#: admin/ef-admin.php:54
+msgid "Access to the filesystem denied"
+msgstr "Accesso al filesystem negato"
+
+#: essential-form.php:86
+#, php-format
+msgid "Message from %s"
+msgstr "Messaggio da %s"
+
+#: essential-form.php:87
+msgid "Name"
+msgstr "Nome"
+
+#: essential-form.php:88
+msgid "Email"
+msgstr "Email"
+
+#: essential-form.php:89
+msgid "Message"
+msgstr "Messaggio"
+
+#: essential-form.php:90
+msgid "Send"
+msgstr "Invia"
+
+#: essential-form.php:91
+#, php-format
+msgid "By submitting this form I agree with the %sprivacy policy%s"
+msgstr "Inviando questo modulo accetto %sl'informativa sulla privacy%s"
+
+#: essential-form.php:92
+msgid "Form submitted successfully! Thank you for your message!"
+msgstr "Modulo inviato con successo! Grazie per il tuo messaggio!"
+
+#: essential-form.php:93
+msgid "Name is a required field!"
+msgstr "Il nome è un campo obbligatorio"
+
+#: essential-form.php:94
+msgid "Email is a required field!"
+msgstr "Email è un campo obbligatorio."
+
+#: essential-form.php:95
+msgid "Email not valid!"
+msgstr "Email non valida!"
+
+#: essential-form.php:96
+msgid "Message is a required field!"
+msgstr "Il messaggio è un campo obbligatorio!"
+
+#: essential-form.php:97
+msgid "This message is too long! Please, write not more than 50000 characters."
+msgstr ""
+"Questo messaggio è troppo lungo! Si prega di scrivere non più di 50000 "
+"caratteri."
+
+#: essential-form.php:98
+msgid "You have to agree with our privacy policy to submit the form."
+msgstr "Devi accettare la nostra politica sulla privacy per inviare il modulo."
+
+#: essential-form.php:231
+msgid "Description"
+msgstr "Descrizione"
+
+#: inc/ef-ajax.php:99
+#, php-format
+msgid "Name: %s"
+msgstr "Nome: %s"
+
+#: inc/ef-ajax.php:100
+#, php-format
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: inc/ef-ajax.php:103
+#, php-format
+msgid "Form submited from the page %s"
+msgstr "Modulo inviato dalla pagina %s"
+
+#: inc/ef-ajax.php:109
+#, php-format
+msgid "Form submited from the URL %s"
+msgstr "Modulo inviato dall'URL %s"
+
+#. Plugin Name of the plugin/theme
+msgid "Essential Form"
+msgstr "Essential Form"
+
+#. Description of the plugin/theme
+msgid ""
+"The lightest contact form for WordPress. So essential you'll either love it "
+"or hate it. Ultra lightweight and no spam."
+msgstr ""
+"Il modulo di contatto più leggero per WordPress. Così essenziale che lo "
+"amerai o lo odierai. Ultra leggero e senza spam."
+
+#. Author of the plugin/theme
+msgid "Jose Mortellaro"
+msgstr "Jose Mortellaro"
+
+#. Author URI of the plugin/theme
+msgid "https://josemortellaro.com/"
+msgstr "https://josemortellaro.com/"
+
+#~ msgid "By submitting this form I agree with the privacy policy"
+#~ msgstr "Inviando questo modulo accetto l'informativa sulla privacy"
