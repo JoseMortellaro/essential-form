@@ -2,9 +2,9 @@
 
 Contributors:      giuse
 Requires at least: 4.6
-Tested up to:      6.5
+Tested up to:      6.6
 Requires PHP:      7.2
-Stable tag:        0.0.8
+Stable tag:        0.0.9
 License:           GPLv2 or later
 Donate link: buymeacoffee.com/josem
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -160,6 +160,9 @@ You can see <a href="https://wordpress.org/plugins/essential-form/" target="_bla
 You don't need any demo for the backend, because there are no settings for this plugin. Just use the shortcode [essential_form] where you want to add the form, and customized as mentioned in the description.
 
 == Changelog ==
+
+= 0.0.9 =
+* Fix: line spaces removed in the email message.
 
 = 0.0.8 =
 * Added: translated in French. Many thanks to @queertimes for the translation.

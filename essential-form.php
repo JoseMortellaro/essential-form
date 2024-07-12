@@ -6,7 +6,7 @@ Author: Jose Mortellaro
 Author URI: https://josemortellaro.com/
 Domain Path: /languages/
 Text Domain: essential-form
-Version: 0.0.8
+Version: 0.0.9
 */
 /*  This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -20,7 +20,7 @@ GNU General Public License for more details.
 defined( 'ABSPATH' ) || exit; // Exit if accessed directly.
 
 // Definitions.
-define( 'ESSENTIAL_FORM_VERSION','0.0.8' );
+define( 'ESSENTIAL_FORM_VERSION','0.0.9' );
 define( 'ESSENTIAL_FORM_PLUGIN_DIR', untrailingslashit( dirname( __FILE__ ) ) );
 define( 'ESSENTIAL_FORM_PLUGIN_URL', untrailingslashit( plugins_url( '', __FILE__ ) ) );
 define( 'ESSENTIAL_FORM_BASE_NAME', untrailingslashit( plugin_basename( __FILE__ ) ) );

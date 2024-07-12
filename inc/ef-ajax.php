@@ -52,7 +52,7 @@ function essential_form_ajax_handler(){
     }
     $name = sanitize_text_field( $_POST['name'] );
     $email = sanitize_email( $_POST['email'] );
-    $message = wp_kses_post( $_POST['message'] );
+    $message = wp_kses_post( wpautop( $_POST['message'] ) );
     $agreement = sanitize_text_field( $_POST['agreement'] );
     $settings = essential_form_filtered_settings();
     extract( $settings );
